@@ -3,10 +3,10 @@
 👀 I’m interested in computers throughout all their levels of abstraction. I like experimenting with microcontrollers, operating systems, programming languages, and software development.
 
 🌱 I’m currently learning data analysis, trying to get better with Pandas.
-<!--- 💞️ I’m looking to collaborate on projects. --->
 
-📫 How to reach me:
-- [remcmanu@gmail.com](mailto:remcmanu@gmail.com)
+💞️ I’m looking to collaborate on projects.
+
+📫 How to reach me: [remcmanu@gmail.com](mailto:remcmanu@gmail.com)
 
 ### Languages, Tools, Frameworks I use:
 [<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />](https://github.com/topics/windows)
