@@ -39,6 +39,13 @@ Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/e
 
 ---
 [![remcmanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=remcmanu&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=remcmanu&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" />
+<img src="https://github-profile-trophy.vercel.app/?username=remcmanu&theme=gruvbox&no-bg=false" />
+
+---
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dremcmanu&longCache=true"/>
+<img align="left" src="https://img.shields.io/github/stars/remcmanu?label=Stars" alt="stars">
+<a href="https://www.linkedin.com/in/robert-mcmanus-3250641b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <!---
 remcmanu/remcmanu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
