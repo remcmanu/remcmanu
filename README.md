@@ -2,7 +2,7 @@
 
 👀 I’m interested in computers throughout all their levels of abstraction. I like experimenting with microcontrollers, operating systems, programming languages, and software development.
 
-🌱 I’m currently learning data analysis, trying to get better with Pandas.
+🌱 I’m currently learning front end, trying to get better with Angular.
 
 💞️ I’m looking to collaborate on projects.
 
@@ -28,6 +28,7 @@ Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/e
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />](https://github.com/topics/json)
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/topics/cpp)
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />](https://github.com/topics/c)
+[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/c700f6f5bb68a850405eef411cf878162ff34b59/topics/angular/angular.png" />](https://github.com/topics/angular)
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/topics/html)
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/topics/css)
 [<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />](https://github.com/topics/markdown)
